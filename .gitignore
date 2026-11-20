@@ -8,3 +8,5 @@ output/playwright/
 presentation/*.pdf
 presentation/*.png
 !presentation/.gitkeep
+.vercel
+.env*
