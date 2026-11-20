@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.codex-build/
+.codex-finalizer/
+output/playwright/
+.playwright-cli/
+.vercel/
+presentation/*.pdf
+presentation/*.png
+!presentation/.gitkeep
